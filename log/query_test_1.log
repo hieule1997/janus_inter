@@ -1,0 +1,175 @@
+[2020-03-02 15:33:16,619] [INFO] [PROCESS_ID 8012] :Request Received: Persons
+[2020-03-02 15:33:16,619] [INFO] [PROCESS_ID 8012] :Trying To Login
+[2020-03-02 15:33:16,738] [INFO] [PROCESS_ID 8012] :Successfully Logged In
+[2020-03-02 15:33:16,739] [DEBUG] [PROCESS_ID 8012] :Using selector: SelectSelector
+[2020-03-02 15:33:16,740] [DEBUG] [PROCESS_ID 8012] :Using selector: SelectSelector
+[2020-03-02 15:36:22,118] [INFO] [PROCESS_ID 7748] :Request Received: Add New Person
+[2020-03-02 15:36:22,118] [INFO] [PROCESS_ID 7748] :Trying To Login
+[2020-03-02 15:36:22,214] [INFO] [PROCESS_ID 7748] :Successfully Logged In
+[2020-03-02 15:36:22,214] [INFO] [PROCESS_ID 7748] :Adding New Person to Graph
+[2020-03-02 15:36:41,065] [INFO] [PROCESS_ID 8700] :Request Received: Add New Person
+[2020-03-02 15:36:41,065] [INFO] [PROCESS_ID 8700] :Trying To Login
+[2020-03-02 15:36:41,150] [INFO] [PROCESS_ID 8700] :Successfully Logged In
+[2020-03-02 15:36:41,150] [INFO] [PROCESS_ID 8700] :Adding New Person to Graph
+[2020-03-02 15:37:49,136] [INFO] [PROCESS_ID 4404] :Request Received: Add New Person
+[2020-03-02 15:37:49,136] [INFO] [PROCESS_ID 4404] :Trying To Login
+[2020-03-02 15:37:49,255] [INFO] [PROCESS_ID 4404] :Successfully Logged In
+[2020-03-02 15:37:49,255] [INFO] [PROCESS_ID 4404] :Adding New Person to Graph
+[2020-03-02 15:37:49,257] [DEBUG] [PROCESS_ID 4404] :Using selector: SelectSelector
+[2020-03-02 15:37:49,259] [DEBUG] [PROCESS_ID 4404] :Using selector: SelectSelector
+[2020-03-02 16:44:33,032] [INFO] [PROCESS_ID 6544] :Trying To Login
+[2020-03-02 16:44:33,171] [INFO] [PROCESS_ID 6544] :Successfully Logged In
+[2020-03-02 16:44:33,172] [DEBUG] [PROCESS_ID 6544] :Using selector: SelectSelector
+[2020-03-02 16:44:33,174] [DEBUG] [PROCESS_ID 6544] :Using selector: SelectSelector
+[2020-03-02 17:04:57,053] [INFO] [PROCESS_ID 1008] :Trying To Login
+[2020-03-02 17:04:57,198] [INFO] [PROCESS_ID 1008] :Successfully Logged In
+[2020-03-02 17:04:57,199] [DEBUG] [PROCESS_ID 1008] :Using selector: SelectSelector
+[2020-03-02 17:04:57,201] [DEBUG] [PROCESS_ID 1008] :Using selector: SelectSelector
+[2020-03-02 17:05:42,003] [INFO] [PROCESS_ID 12768] :Trying To Login
+[2020-03-02 17:05:42,087] [INFO] [PROCESS_ID 12768] :Successfully Logged In
+[2020-03-02 17:05:42,088] [DEBUG] [PROCESS_ID 12768] :Using selector: SelectSelector
+[2020-03-02 17:05:42,089] [DEBUG] [PROCESS_ID 12768] :Using selector: SelectSelector
+[2020-03-02 17:23:40,634] [INFO] [PROCESS_ID 1212] :Trying To Login
+[2020-03-02 17:23:40,727] [INFO] [PROCESS_ID 1212] :Successfully Logged In
+[2020-03-02 17:23:47,942] [INFO] [PROCESS_ID 12196] :Trying To Login
+[2020-03-02 17:23:48,030] [INFO] [PROCESS_ID 12196] :Successfully Logged In
+[2020-03-02 17:24:06,894] [INFO] [PROCESS_ID 4136] :Trying To Login
+[2020-03-02 17:24:06,979] [INFO] [PROCESS_ID 4136] :Successfully Logged In
+[2020-03-02 17:30:09,538] [INFO] [PROCESS_ID 9316] :Trying To Login
+[2020-03-02 17:30:09,706] [INFO] [PROCESS_ID 9316] :Successfully Logged In
+[2020-03-02 17:30:09,708] [DEBUG] [PROCESS_ID 9316] :Using selector: SelectSelector
+[2020-03-02 17:30:09,709] [DEBUG] [PROCESS_ID 9316] :Using selector: SelectSelector
+[2020-03-02 17:32:32,436] [INFO] [PROCESS_ID 5772] :Trying To Login
+[2020-03-02 17:32:32,530] [INFO] [PROCESS_ID 5772] :Successfully Logged In
+[2020-03-02 17:32:32,531] [DEBUG] [PROCESS_ID 5772] :Using selector: SelectSelector
+[2020-03-02 17:32:32,532] [DEBUG] [PROCESS_ID 5772] :Using selector: SelectSelector
+[2020-03-02 17:33:49,269] [INFO] [PROCESS_ID 12368] :Trying To Login
+[2020-03-02 17:33:49,348] [INFO] [PROCESS_ID 12368] :Successfully Logged In
+[2020-03-02 17:33:49,348] [DEBUG] [PROCESS_ID 12368] :Using selector: SelectSelector
+[2020-03-02 17:33:49,348] [DEBUG] [PROCESS_ID 12368] :Using selector: SelectSelector
+[2020-03-02 17:35:03,674] [INFO] [PROCESS_ID 4300] :Trying To Login
+[2020-03-02 17:35:03,766] [INFO] [PROCESS_ID 4300] :Successfully Logged In
+[2020-03-02 17:35:03,767] [DEBUG] [PROCESS_ID 4300] :Using selector: SelectSelector
+[2020-03-02 17:35:03,767] [DEBUG] [PROCESS_ID 4300] :Using selector: SelectSelector
+[2020-03-03 10:13:25,627] [INFO] [PROCESS_ID 3740] :Trying To Login
+[2020-03-03 10:13:25,716] [INFO] [PROCESS_ID 3740] :Successfully Logged In
+[2020-03-03 10:13:37,747] [INFO] [PROCESS_ID 2036] :Trying To Login
+[2020-03-03 10:13:37,841] [INFO] [PROCESS_ID 2036] :Successfully Logged In
+[2020-03-03 10:13:37,842] [DEBUG] [PROCESS_ID 2036] :Using selector: SelectSelector
+[2020-03-03 10:13:37,843] [DEBUG] [PROCESS_ID 2036] :Using selector: SelectSelector
+[2020-03-09 10:04:51,802] [INFO] [PROCESS_ID 5856] :Trying To Login
+[2020-03-09 10:04:52,028] [INFO] [PROCESS_ID 5856] :Successfully Logged In
+[2020-03-09 10:04:52,029] [DEBUG] [PROCESS_ID 5856] :Using selector: SelectSelector
+[2020-03-09 10:04:52,031] [DEBUG] [PROCESS_ID 5856] :Using selector: SelectSelector
+[2020-03-09 11:15:36,729] [INFO] [PROCESS_ID 13200] :Trying To Login
+[2020-03-09 11:15:36,932] [INFO] [PROCESS_ID 13200] :Successfully Logged In
+[2020-03-09 11:15:36,934] [DEBUG] [PROCESS_ID 13200] :Using selector: SelectSelector
+[2020-03-09 11:15:36,935] [DEBUG] [PROCESS_ID 13200] :Using selector: SelectSelector
+[2020-03-09 11:16:32,029] [INFO] [PROCESS_ID 6552] :Trying To Login
+[2020-03-09 11:16:32,029] [ERROR] [PROCESS_ID 6552] :name 'graph' is not defined
+Traceback (most recent call last):
+  File ".\query_test_1.py", line 33, in setup_graph
+    g = graph.traversal().withRemote(DriverRemoteConnection(connstring, 'graph1'))
+NameError: name 'graph' is not defined
+[2020-03-09 11:16:45,899] [INFO] [PROCESS_ID 4680] :Trying To Login
+[2020-03-09 11:16:45,899] [ERROR] [PROCESS_ID 4680] :name 'graph' is not defined
+Traceback (most recent call last):
+  File ".\query_test_1.py", line 33, in setup_graph
+    g = graph.traversal().withRemote(DriverRemoteConnection(connstring, 'graph1'))
+NameError: name 'graph' is not defined
+[2020-03-09 11:17:05,839] [INFO] [PROCESS_ID 2708] :Trying To Login
+[2020-03-09 11:17:05,995] [INFO] [PROCESS_ID 2708] :Successfully Logged In
+[2020-03-09 11:17:05,996] [DEBUG] [PROCESS_ID 2708] :Using selector: SelectSelector
+[2020-03-09 11:17:05,997] [DEBUG] [PROCESS_ID 2708] :Using selector: SelectSelector
+[2020-03-09 11:54:42,436] [INFO] [PROCESS_ID 2436] :Trying To Login
+[2020-03-09 11:54:42,601] [INFO] [PROCESS_ID 2436] :Successfully Logged In
+[2020-03-09 11:54:42,603] [DEBUG] [PROCESS_ID 2436] :Using selector: SelectSelector
+[2020-03-09 11:54:42,604] [DEBUG] [PROCESS_ID 2436] :Using selector: SelectSelector
+[2020-03-09 11:54:49,810] [INFO] [PROCESS_ID 4644] :Trying To Login
+[2020-03-09 11:54:49,921] [INFO] [PROCESS_ID 4644] :Successfully Logged In
+[2020-03-09 11:54:49,922] [DEBUG] [PROCESS_ID 4644] :Using selector: SelectSelector
+[2020-03-09 11:54:49,923] [DEBUG] [PROCESS_ID 4644] :Using selector: SelectSelector
+[2020-03-09 11:58:50,535] [INFO] [PROCESS_ID 244] :Trying To Login
+[2020-03-09 11:58:50,629] [INFO] [PROCESS_ID 244] :Successfully Logged In
+[2020-03-09 11:58:50,630] [DEBUG] [PROCESS_ID 244] :Using selector: SelectSelector
+[2020-03-09 11:58:50,631] [DEBUG] [PROCESS_ID 244] :Using selector: SelectSelector
+[2020-03-09 13:21:34,159] [INFO] [PROCESS_ID 14072] :Trying To Login
+[2020-03-09 13:21:34,341] [INFO] [PROCESS_ID 14072] :Successfully Logged In
+[2020-03-09 13:21:34,343] [DEBUG] [PROCESS_ID 14072] :Using selector: SelectSelector
+[2020-03-09 13:21:34,344] [DEBUG] [PROCESS_ID 14072] :Using selector: SelectSelector
+[2020-03-09 13:21:59,686] [INFO] [PROCESS_ID 9476] :Trying To Login
+[2020-03-09 13:21:59,806] [INFO] [PROCESS_ID 9476] :Successfully Logged In
+[2020-03-09 13:21:59,809] [DEBUG] [PROCESS_ID 9476] :Using selector: SelectSelector
+[2020-03-09 13:21:59,810] [DEBUG] [PROCESS_ID 9476] :Using selector: SelectSelector
+[2020-03-09 13:50:03,837] [INFO] [PROCESS_ID 10676] :Trying To Login
+[2020-03-09 13:50:03,988] [INFO] [PROCESS_ID 10676] :Successfully Logged In
+[2020-03-09 13:50:03,989] [DEBUG] [PROCESS_ID 10676] :Using selector: SelectSelector
+[2020-03-09 13:50:03,990] [DEBUG] [PROCESS_ID 10676] :Using selector: SelectSelector
+[2020-03-09 14:02:28,579] [INFO] [PROCESS_ID 13020] :Trying To Login
+[2020-03-09 14:02:28,776] [INFO] [PROCESS_ID 13020] :Successfully Logged In
+[2020-03-09 14:02:28,778] [DEBUG] [PROCESS_ID 13020] :Using selector: SelectSelector
+[2020-03-09 14:02:28,787] [DEBUG] [PROCESS_ID 13020] :Using selector: SelectSelector
+[2020-03-09 14:24:49,717] [INFO] [PROCESS_ID 2888] :Trying To Login
+[2020-03-09 14:24:49,820] [INFO] [PROCESS_ID 2888] :Successfully Logged In
+[2020-03-09 14:24:49,821] [DEBUG] [PROCESS_ID 2888] :Using selector: SelectSelector
+[2020-03-09 14:24:49,822] [DEBUG] [PROCESS_ID 2888] :Using selector: SelectSelector
+[2020-03-09 14:32:43,393] [INFO] [PROCESS_ID 13288] :Trying To Login
+[2020-03-09 14:32:43,507] [INFO] [PROCESS_ID 13288] :Successfully Logged In
+[2020-03-09 14:32:43,508] [DEBUG] [PROCESS_ID 13288] :Using selector: SelectSelector
+[2020-03-09 14:32:43,509] [DEBUG] [PROCESS_ID 13288] :Using selector: SelectSelector
+[2020-03-09 14:32:49,917] [INFO] [PROCESS_ID 13872] :Trying To Login
+[2020-03-09 14:32:50,031] [INFO] [PROCESS_ID 13872] :Successfully Logged In
+[2020-03-09 14:32:50,033] [DEBUG] [PROCESS_ID 13872] :Using selector: SelectSelector
+[2020-03-09 14:32:50,034] [DEBUG] [PROCESS_ID 13872] :Using selector: SelectSelector
+[2020-03-09 14:32:57,036] [INFO] [PROCESS_ID 9700] :Trying To Login
+[2020-03-09 14:32:57,147] [INFO] [PROCESS_ID 9700] :Successfully Logged In
+[2020-03-09 14:32:57,149] [DEBUG] [PROCESS_ID 9700] :Using selector: SelectSelector
+[2020-03-09 14:32:57,150] [DEBUG] [PROCESS_ID 9700] :Using selector: SelectSelector
+[2020-03-09 14:43:26,051] [INFO] [PROCESS_ID 8968] :Trying To Login
+[2020-03-09 14:43:26,157] [INFO] [PROCESS_ID 8968] :Successfully Logged In
+[2020-03-09 14:43:26,158] [DEBUG] [PROCESS_ID 8968] :Using selector: SelectSelector
+[2020-03-09 14:43:26,159] [DEBUG] [PROCESS_ID 8968] :Using selector: SelectSelector
+[2020-03-09 14:55:01,251] [INFO] [PROCESS_ID 1612] :Trying To Login
+[2020-03-09 14:55:01,420] [INFO] [PROCESS_ID 1612] :Successfully Logged In
+[2020-03-09 14:55:01,422] [DEBUG] [PROCESS_ID 1612] :Using selector: SelectSelector
+[2020-03-09 14:55:01,424] [DEBUG] [PROCESS_ID 1612] :Using selector: SelectSelector
+[2020-03-09 15:16:01,014] [INFO] [PROCESS_ID 10776] :Trying To Login
+[2020-03-09 15:16:01,112] [INFO] [PROCESS_ID 10776] :Successfully Logged In
+[2020-03-09 15:16:01,114] [DEBUG] [PROCESS_ID 10776] :Using selector: SelectSelector
+[2020-03-09 15:16:01,114] [DEBUG] [PROCESS_ID 10776] :Using selector: SelectSelector
+[2020-03-09 15:19:59,898] [INFO] [PROCESS_ID 1984] :Trying To Login
+[2020-03-09 15:20:00,048] [INFO] [PROCESS_ID 1984] :Successfully Logged In
+[2020-03-09 15:20:00,049] [DEBUG] [PROCESS_ID 1984] :Using selector: SelectSelector
+[2020-03-09 15:20:00,051] [DEBUG] [PROCESS_ID 1984] :Using selector: SelectSelector
+[2020-03-09 15:28:41,391] [INFO] [PROCESS_ID 6516] :Trying To Login
+[2020-03-09 15:28:41,536] [INFO] [PROCESS_ID 6516] :Successfully Logged In
+[2020-03-09 15:28:41,538] [DEBUG] [PROCESS_ID 6516] :Using selector: SelectSelector
+[2020-03-09 15:28:41,539] [DEBUG] [PROCESS_ID 6516] :Using selector: SelectSelector
+[2020-03-10 14:48:16,825] [INFO] [PROCESS_ID 1484] :Trying To Login
+[2020-03-10 14:48:16,986] [INFO] [PROCESS_ID 1484] :Successfully Logged In
+[2020-03-10 14:48:16,987] [DEBUG] [PROCESS_ID 1484] :Using selector: SelectSelector
+[2020-03-10 14:48:16,987] [DEBUG] [PROCESS_ID 1484] :Using selector: SelectSelector
+[2020-03-10 14:48:49,981] [INFO] [PROCESS_ID 10528] :Trying To Login
+[2020-03-10 14:48:50,086] [INFO] [PROCESS_ID 10528] :Successfully Logged In
+[2020-03-10 14:48:50,087] [DEBUG] [PROCESS_ID 10528] :Using selector: SelectSelector
+[2020-03-10 14:48:50,089] [DEBUG] [PROCESS_ID 10528] :Using selector: SelectSelector
+[2020-03-10 14:52:30,008] [INFO] [PROCESS_ID 7648] :Trying To Login
+[2020-03-10 14:52:30,135] [INFO] [PROCESS_ID 7648] :Successfully Logged In
+[2020-03-10 14:52:30,136] [DEBUG] [PROCESS_ID 7648] :Using selector: SelectSelector
+[2020-03-10 14:52:30,137] [DEBUG] [PROCESS_ID 7648] :Using selector: SelectSelector
+[2020-03-10 14:53:52,084] [INFO] [PROCESS_ID 11276] :Trying To Login
+[2020-03-10 14:53:52,192] [INFO] [PROCESS_ID 11276] :Successfully Logged In
+[2020-03-10 14:53:52,193] [DEBUG] [PROCESS_ID 11276] :Using selector: SelectSelector
+[2020-03-10 14:53:52,193] [DEBUG] [PROCESS_ID 11276] :Using selector: SelectSelector
+[2020-03-10 15:17:35,912] [INFO] [PROCESS_ID 7944] :Trying To Login
+[2020-03-10 15:17:36,029] [INFO] [PROCESS_ID 7944] :Successfully Logged In
+[2020-03-10 15:17:36,029] [DEBUG] [PROCESS_ID 7944] :Using selector: SelectSelector
+[2020-03-10 15:17:36,030] [DEBUG] [PROCESS_ID 7944] :Using selector: SelectSelector
+[2020-03-11 08:44:51,079] [INFO] [PROCESS_ID 13712] :Trying To Login
+[2020-03-11 08:44:51,295] [INFO] [PROCESS_ID 13712] :Successfully Logged In
+[2020-03-11 08:44:51,297] [DEBUG] [PROCESS_ID 13712] :Using selector: SelectSelector
+[2020-03-11 08:44:51,299] [DEBUG] [PROCESS_ID 13712] :Using selector: SelectSelector
+[2020-03-11 10:31:38,786] [INFO] [PROCESS_ID 9448] :Trying To Login
+[2020-03-11 10:31:38,878] [INFO] [PROCESS_ID 9448] :Successfully Logged In
+[2020-03-11 10:31:38,879] [DEBUG] [PROCESS_ID 9448] :Using selector: SelectSelector
+[2020-03-11 10:31:38,880] [DEBUG] [PROCESS_ID 9448] :Using selector: SelectSelector
